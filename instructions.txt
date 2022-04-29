@@ -1,0 +1,15 @@
+sudo open /etc/hosts
+
+change racecar's last field to be the team's car number
+
+open .bashrc
+
+change ROS_MASTER_URI's last field to the team's car number (same as racecar in hosts)
+
+source ~/.bashrc in every terminal
+
+source ~/.ml-challenge/bin/activate
+
+cd ~/yolo
+
+python stop_detector.py
