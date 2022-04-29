@@ -40,6 +40,8 @@ class SignDetector:
             ml_msg = Float32MultiArray()
             ml_msg.data = bb
             self.publisher.publish(ml_msg)
+            self.bbox_publisher.publish(ml_msg)
+
 
         # Scaled
         # if False:
