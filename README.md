@@ -216,5 +216,4 @@ Note that this does not change the max speed of the joystick. If you want the jo
 *Is it possible to avoid going through the car wash?*
 * Yes, there will be an alternate route that is slightly longer
 
-### Part C: Rainbow Road Challenge
 
