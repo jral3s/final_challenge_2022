@@ -158,23 +158,6 @@ Here are some things you may consider in developing your approach:
 
 As always, your safety controller should be turned on for this portion of the Final Challenge as well, although the city will not damage the car should you collide with anything.
 
-## Part C: Rainbow Road
-
-
-### Environment and Task
-
-You've almost made it back home! The last thing to do is to drive through the outskirts of the city back to the portal that leads to MIT along the Rainbow Road. More hacked images have been leaked... but why is the road so colorful?! You can definitely tell where the road is, but your car will get confused if you stick to color segmentation for sure. Legend has it that the surrounding flower field (the infamous Marigold Kart) is poisonous to racecars, and there are no invincibility stars to be found!
-
-*TODO: add rainbow road ML instructions*
-
-
-### Race Day
-
-### Tips
-
-Here are some things you may consider in developing your approach:
-
-*TODO: add*
 
 ## General Notes
 
